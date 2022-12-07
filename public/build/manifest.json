@@ -1,0 +1,81 @@
+{
+  "resources/assets/fonts/Yekan-Bakh-FaNum-04-Regular.woff": {
+    "file": "assets/Yekan-Bakh-FaNum-04-Regular.5342e787.woff",
+    "src": "resources/assets/fonts/Yekan-Bakh-FaNum-04-Regular.woff"
+  },
+  "resources/assets/fonts/Yekan-Bakh-FaNum-05-Medium.woff": {
+    "file": "assets/Yekan-Bakh-FaNum-05-Medium.d807027d.woff",
+    "src": "resources/assets/fonts/Yekan-Bakh-FaNum-05-Medium.woff"
+  },
+  "resources/assets/images/arrow.svg": {
+    "file": "assets/arrow.60d37b35.svg",
+    "src": "resources/assets/images/arrow.svg"
+  },
+  "resources/assets/images/pattern-2.jpg": {
+    "file": "assets/pattern-2.17d3a4a9.jpg",
+    "src": "resources/assets/images/pattern-2.jpg"
+  },
+  "resources/assets/fonts/Yekan-Bakh-FaNum-06-Bold.woff": {
+    "file": "assets/Yekan-Bakh-FaNum-06-Bold.3f7a07ce.woff",
+    "src": "resources/assets/fonts/Yekan-Bakh-FaNum-06-Bold.woff"
+  },
+  "resources/assets/fonts/Yekan-Bakh-FaNum-07-Heavy.woff": {
+    "file": "assets/Yekan-Bakh-FaNum-07-Heavy.e8ea507f.woff",
+    "src": "resources/assets/fonts/Yekan-Bakh-FaNum-07-Heavy.woff"
+  },
+  "resources/assets/fonts/Yekan-Bakh-FaNum-08-Fat.woff": {
+    "file": "assets/Yekan-Bakh-FaNum-08-Fat.563950b7.woff",
+    "src": "resources/assets/fonts/Yekan-Bakh-FaNum-08-Fat.woff"
+  },
+  "resources/assets/fonts/remixicon/remixicon.eot": {
+    "file": "assets/remixicon.64bb3a0f.eot",
+    "src": "resources/assets/fonts/remixicon/remixicon.eot"
+  },
+  "resources/assets/fonts/remixicon/remixicon.woff2": {
+    "file": "assets/remixicon.e61f0d10.woff2",
+    "src": "resources/assets/fonts/remixicon/remixicon.woff2"
+  },
+  "resources/assets/fonts/remixicon/remixicon.woff": {
+    "file": "assets/remixicon.c2dacfbc.woff",
+    "src": "resources/assets/fonts/remixicon/remixicon.woff"
+  },
+  "resources/assets/fonts/remixicon/remixicon.ttf": {
+    "file": "assets/remixicon.0ac8bc3c.ttf",
+    "src": "resources/assets/fonts/remixicon/remixicon.ttf"
+  },
+  "resources/assets/fonts/remixicon/remixicon.svg": {
+    "file": "assets/remixicon.a10268fe.svg",
+    "src": "resources/assets/fonts/remixicon/remixicon.svg"
+  },
+  "resources/js/admin.js": {
+    "file": "assets/admin.fbdc81f7.js",
+    "src": "resources/js/admin.js",
+    "isEntry": true,
+    "imports": [
+      "_bootstrap.34ec070f.js"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.d1289427.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_bootstrap.34ec070f.js"
+    ],
+    "css": [
+      "assets/app.67dcdfd2.css"
+    ]
+  },
+  "_bootstrap.34ec070f.js": {
+    "file": "assets/bootstrap.34ec070f.js"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app.67dcdfd2.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/sass/admin.scss": {
+    "file": "assets/admin.bd49b3c4.css",
+    "src": "resources/sass/admin.scss",
+    "isEntry": true
+  }
+}
