@@ -112,8 +112,60 @@
 
             <!--begin::Profile-->
             <div class="profile-content-ui position-relative mr-3">
-                <div class="profile-content__thumb" data-bs-auto-close="outside" aria-expanded="false" data-bs-offset="0,15">
+                <div class="profile-content__thumb dropdown-toggle" data-bs-auto-close="outside" id="profile-content-ui" data-bs-toggle="dropdown" aria-expanded="false" data-bs-offset="0,15">
                     <img class="img-fluid" src="assets/images/150-2.jpg" alt="">
+                </div>
+                <div class="dropdown-menu dropdown-menu-start feeds_widget" aria-labelledby="profile-content-ui" style="">
+                    <div class="header blue d-flex align-items-center">
+
+                        <div class="symbol symbol-40px mx-2 py-5">
+                            <img alt="Logo" src="assets/images/150-2.jpg">
+                        </div>
+
+                        <div>
+                            <span class="text-white  fs-5">امیر</span>
+                            <a href="#" class="link-white fs-6 d-block opacity-75 opacity-100-hover">hilsonxhero@gmail.com</a>
+                        </div>
+
+                    </div>
+
+                    <div class="row row-cols-2 g-0">
+                        <!--begin::Col-->
+                        <a href="" class="border-bottom border-end text-center py-10 btn btn-text-dark btn-icon-gray-400 btn-active-color-primary rounded-0">
+
+                            <i class="ri-profile-line ri-2x"></i>
+
+                            <span class="fw-bolder fs-6 d-block pt-3">پروفایل من</span>
+                        </a>
+                        <!--end::Col-->
+                        <!--begin::Col-->
+                        <a href="" class="col border-bottom text-center py-10 btn btn-text-dark btn-icon-gray-400 btn-active-color-primary rounded-0">
+                            <!--begin::Svg Icon | path: icons/duotone/Interface/Settings-02.svg-->
+                            <i class="ri-settings-4-line ri-2x"></i>
+                            <!--end::Svg Icon-->
+                            <span class="fw-bolder fs-6 d-block pt-3">تنظیمات</span>
+                        </a>
+                        <!--end::Col-->
+                        <!--begin::Col-->
+                        <div class="col text-center border-end py-10 btn btn-text-dark btn-icon-gray-400 btn-active-color-primary rounded-0" data-kt-menu-trigger="hover" data-kt-menu-placement="left-start" data-kt-menu-flip="center, top">
+                            <!--begin::Svg Icon-->
+                            <i class="ri-apps-2-line ri-2x"></i>
+                            <!--end::Svg Icon-->
+                            <span class="fw-bolder fs-6 d-block pt-3">دوره ها</span>
+                        </div>
+                        <!--end::Col-->
+                        <!--begin::Col-->
+                        <a href="" class="col text-center py-10 btn btn-text-dark btn-icon-gray-400 btn-active-color-primary rounded-0">
+
+                            <i class="ri-logout-box-r-line ri-2x"></i>
+
+                            <span class="fw-bolder fs-6 d-block pt-3">خروج</span>
+                        </a>
+                        <!--end::Col-->
+                        <!--begin::balance account-->
+                        <span class="account-balance me-2 col w-100 d-flex justify-content-center align-items-center">  2,500,000 تومان</span>
+                        <!--begin::balance account-->
+                    </div>
                 </div>
             </div>
             <!--end::Profile-->
