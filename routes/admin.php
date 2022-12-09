@@ -13,5 +13,9 @@ use App\Http\Controllers\Admin\PanelController;
 | contains the "web" middleware group. Now create something great!
 |
 */
+Route::get('/',[PanelController::class,'index'])->name('admin.panel');
+Route::middleware(['role:admin'])->group(function () {
 
-Route::get('/',[PanelController::class,'index']);
+
+});
+
